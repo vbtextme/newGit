@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 snack 
 meat 
 cake 
-=======
 joe 
 forest gump 
->>>>>>> movies
